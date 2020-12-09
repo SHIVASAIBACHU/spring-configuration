@@ -1,0 +1,13 @@
+my:
+  greeting: hello world by javabrains
+  list:
+    values: one,two
+db:
+  host: 123.12.1
+  id: 123
+  name: shiva
+
+management.endpoints.web.exposure.include: "*"
+
+
+
